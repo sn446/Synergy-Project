@@ -1,0 +1,90 @@
+/* CSS Document */
+body {
+ 
+    margin:0;
+	padding:0;
+}
+#Holder {
+
+    width:980px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:auto;
+	margin-bottom:21px;
+}
+#header {
+
+    height:70px;
+    
+	background-image:url(../Assets/synergy.jpg);
+	background-size: 70px;
+	background-repeat: no-repeat;
+	margin-bottom:12px;
+    
+}
+#navbar{
+	height:60px;
+	background-color:rgba(17,22,16,1.00);
+			
+}
+#Content {
+	height:auto;
+	clear:both;
+	overflow:auto;
+	
+}
+#PageHeading {
+	
+    height:auto;
+	padding:11px;
+	
+	}
+#Contentleft {
+	 
+    width: 230px;
+	float:left;
+	padding-top:11px;
+	padding-left:11px;
+	}
+
+#contentright {
+    
+    width: 760px;
+	float:right;
+    padding-top:11px;
+	padding-left:11px;
+
+	}
+
+#Footer {
+
+    height:50px;
+	
+	}
+	
+	h1 {
+		margin:0;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+		color:#f7ebeb;	
+		font-weight:lighter;
+			}
+			h2 {
+				margin:0;
+				font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+				color:#999;
+				}
+            h4 {
+				margin:0;
+				font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+				color:#b53d3d;
+				}
+				h6 {
+		margin:0;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+		color:hsl(141, 37%, 95%);	
+		font-weight:lighter;
+		font-size:14px;
+	
+			}
+	
