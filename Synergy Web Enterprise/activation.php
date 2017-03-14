@@ -5,7 +5,7 @@ include("includes/db.php");
 
 	if(isset($_POST['activate'])) {
 
-    $token = $_POST['token'];
+    $token = $_POST['token'];  
 
     
 
