@@ -53,7 +53,7 @@ include("includes/db.php");
 
 <body>
 <div id="Holder">
-<div id="header"><h1>B&H HOLIDAYS</h1></div>
+<div id="header"><h1>Synergy</h1></div>
 <div id="navbar">
 	<nav>
     	<ul>
